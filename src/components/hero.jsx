@@ -2,7 +2,7 @@ import React from 'react'
 
 const Hero = () => {
   return (
-    <div className="mb-8 flex flex-wrap justify-between md:mb-16">
+    <div className="my-8 flex flex-wrap justify-between md:mb-16 md:mt-12 xl:mt-16">
     <div className="mb-6 flex w-full flex-col justify-center sm:mb-12 lg:mb-0 lg:w-1/3 lg:pt-48 lg:pb-24">
         <h1 className="text-black mb-4 text-4xl font-bold sm:text-5xl md:mb-8 md:text-6xl">
             Find your<br />style online
