@@ -6,7 +6,7 @@ import Hero from './hero'
 
 const Hhead = () => {
   return (
-    <header className="mb-8 flex items-center justify-between py-2 md:mb-12 md:py-2 xl:mb-16">
+    <header className=" flex items-center justify-between py-2 ">
       <Logo />
       <Nav />
       <Buttons />
