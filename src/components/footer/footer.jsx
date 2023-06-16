@@ -16,7 +16,7 @@ const Footer = () => {
                             <path d="M96 0V47L48 94H0V47L48 0H96Z" />
                         </svg>
 
-                        BellaViton
+                        UTC store
                     </Link>
                 </div>
                 {/* logo - end  */} 
@@ -193,7 +193,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t py-8 text-center text-sm text-gray-400">
-            © 2021 - Present BellaViton. All rights reserved.
+            © 2021 - Present UTC store. All rights reserved.
         </div>
     </footer>
 </div>
