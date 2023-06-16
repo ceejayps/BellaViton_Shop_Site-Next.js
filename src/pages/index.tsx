@@ -2,7 +2,7 @@ import Image from 'next/image'
 import { Inter } from 'next/font/google'
 import Hheader from '../components/header'
 import Hero from '../components/hero'
-import BottomHeroNav from "../components/BottomHeroNav"
+import BottomHeroNav from "../components/bottomHeroNav"
 
 import CallToAction from '../components/callToAction'
 import Callection from "../components/collectionSection"
